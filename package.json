@@ -42,7 +42,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-token-replace": "1.1.5",
     "gulp-zip": "4.2.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "morgan": "1.9.1",
     "msteams-react-base-component": "1.1.1",
     "msteams-ui-components-react": "^0.8.1",
